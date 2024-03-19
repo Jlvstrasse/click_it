@@ -1,7 +1,7 @@
 # Click It
 
 ## Description
-### Background changes colors every time button is pushed. To create it I coded along with Web Dev Tutorials on Youtube.
+### Background changes colors every time button is pushed. To create it I mostly followed along with Web Dev Tutorials on Youtube, with some minor changes.
 
 ## Technologies
 ### HTML, CSS, and Bootstrap
